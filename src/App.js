@@ -32,7 +32,7 @@ function App() {
   };
   return (
     <div className="App">
-      <h1>ToDo ✅</h1>
+      <h1>ToDo App ✅</h1>
       <form>
         <FormControl>
           <InputLabel>Write a ToDo...</InputLabel>
@@ -63,4 +63,3 @@ function App() {
 }
 
 export default App;
-//2:30:17
