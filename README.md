@@ -1,10 +1,10 @@
-This was created to learn firebase and react.
+This was created using react and firebase.
 
--Firebase & ReactJS (w/ hooks)
--Real-time database
--Hosted on firebase
--CRUD functionality
--Material-UI
+*Firebase & ReactJS (w/ hooks)
+*Real-time database
+*Hosted on firebase
+*CRUD functionality
+*Material-UI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
