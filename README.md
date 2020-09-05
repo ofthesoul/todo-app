@@ -1,3 +1,5 @@
+![](name-of-giphy.gif)
+
 This was created using react and firebase. Check it out here: https://todo-app-f6f09.web.app/
 
 It's live, and todos can be added, edited, and deleted freely.
