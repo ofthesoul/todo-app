@@ -1,4 +1,4 @@
-![](name-of-giphy.gif)
+![](todo.gif)
 
 This was created using react and firebase. Check it out here: https://todo-app-f6f09.web.app/
 
